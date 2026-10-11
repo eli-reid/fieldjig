@@ -4,7 +4,7 @@
     "type": "project",
     "description": "The official Laravel starter kit for Livewire.",
     "keywords": ["laravel", "framework"],
-    "license": "MIT",
+    "license": "Apache-2.0",
     "require": {
         "php": "^8.2",
         "barryvdh/laravel-dompdf": "^3.1",
